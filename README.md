@@ -10,4 +10,5 @@ The bit-flip code and the sign-flip code are two very simple circuits able to de
 
 4.	Test your solution by making many measurements over the final state and testing that the results are in line with the expectations.
 
-<hr> # The solution of the task is given in the file: **Solution.ipynb**
+<hr> 
+## The solution of the task is given in the file: **_Solution.ipynb_**

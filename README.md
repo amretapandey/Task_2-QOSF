@@ -12,6 +12,6 @@ The bit-flip code and the sign-flip code are two very simple circuits able to de
 
 <hr>
 
-### The solution of the task is given in the file:  _Solution.ipynb_
+### $$The solution of the task is given in the file:  _Solution.ipynb_ $$
 
 <br>

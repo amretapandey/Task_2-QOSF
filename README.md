@@ -12,9 +12,9 @@ The bit-flip code and the sign-flip code are two very simple circuits able to de
 
 <hr>
 
-### The solution of the task is given in the file:  _Solution.ipynb_
-
 I hereby submit my solution notebook for the QOSF mentorship screening task. I am sincerely thankful to QOSF, for giving tasks that challenge us and make us push our boundaries. I personally learnt a lot while attempting this task.
+
+### The solution of the task is given in the file:  _Solution.ipynb_
 
 Regards,
 

@@ -1,9 +1,10 @@
-This is my submission for the QOSF Mentorship Programme 2021. I will be tackling Task 2. My approach to the problem and all necessary calculations and steps have been highlighted in the notebook. Please find my solution in the file:  **_Solution.ipynb_**
+This is my submission for the QOSF Mentorship Programme 2021. I will be tackling Task 2 (mentioned below). My approach to the problem and all necessary calculations and steps have been highlighted in the notebook. 
+
+Please find my solution in the file:  **_Solution.ipynb_**
 
 If the notebook (or any of the MathJax in it) is not rendered correctly on GitHub, please view it on nbviewer instead.
 
 I am sincerely thankful to QOSF, for giving tasks that challenge us and make us push our boundaries. I personally learnt a lot while attempting this task.
-
 
 Thank you!
 

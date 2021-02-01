@@ -1,6 +1,6 @@
 This is my submission for the QOSF Mentorship Programme 2021. I will be tackling Task 2 (mentioned below). My approach to the problem and all necessary calculations and steps have been highlighted in the notebook. 
 
-Please find my solution in the file:  **_Solution.ipynb_**
+Please find my solution in the file:  **Task2_Solution.ipynb**
 
 If the notebook (or any of the MathJax in it) is not rendered correctly on GitHub, please view it on nbviewer instead.
 

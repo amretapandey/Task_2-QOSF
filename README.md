@@ -1,6 +1,6 @@
 Hello,
 
-This is my submission for the QOSF Mentorship Programme 2021. I will be tackling Task 2 (mentioned below). My approach to the problem and all necessary calculations and steps have been highlighted in the notebook. 
+This is my submission for the QOSF Mentorship Programme 2021. I will be tackling Task 2 (mentioned below). My approach to the problem with all the necessary calculations and steps have been highlighted in the notebook. 
 
 Please find my solution in the file:  **_Task2_Solution.ipynb_**
 

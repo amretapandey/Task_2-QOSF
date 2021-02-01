@@ -1,3 +1,6 @@
+%matplotlib inline
+
+#Importing standard Qiskit libraries
 from qiskit import QuantumRegister, ClassicalRegister, QuantumCircuit
 from qiskit.visualization import plot_histogram
 from qiskit.tools.monitor import job_monitor

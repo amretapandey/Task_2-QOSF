@@ -2,7 +2,7 @@ This is my submission for the QOSF Mentorship Programme 2021. I will be tackling
 
 Please find my solution in the file:  **_Task2_Solution.ipynb_**
 
-If the notebook (or any of the MathJax in it) is not rendered correctly on GitHub, please view it on nbviewer instead.
+If the notebook (or any of the MathJax in it) is not rendered correctly on GitHub, kindly view it on nbviewer instead.
 
 I am sincerely thankful to QOSF, for giving tasks that challenge us and make us push our boundaries. I personally learnt a lot while attempting this task.
 

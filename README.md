@@ -10,7 +10,7 @@ Thank you!
 
 Amrita Pandey
 
-<hr> <br>
+<hr>
 
 # Task 2 - QOSF Screening Tasks (cohort3)
 
